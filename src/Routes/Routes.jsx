@@ -18,7 +18,7 @@
         index: true,
         path:"/",
         Component:Home
-      }
+      }  
     ]
   },
 ]);
